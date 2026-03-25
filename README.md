@@ -9,7 +9,7 @@ Hafiz is an intelligent Quran memorization assistant designed to help users mast
 * **Progress Tracking:** Data-driven insights into which Surahs are well-retained and which require "Muraja'ah" (revision).
 
 ### Tech Stack
-* **Frontend:** JavaScript / Chrome Extension API
+* **Frontend:** JavaScript 
 * **Logic:** Custom algorithms for spaced repetition and memorization intervals.
 * **Localization:** Fully optimized for Arabic script and RTL (Right-to-Left) layouts.
 
