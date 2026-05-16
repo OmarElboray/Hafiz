@@ -13,7 +13,17 @@
 
 ## Project Structure
 
-hafiz/├── src/│   ├── app/│   │   ├── layout.tsx       — App Router root layout & font-optimization hook│   │   └── page.tsx         — Core layout routing & application state engine│   ├── components/│   │   └── Tasmi3.tsx       — Recitation studio, speech handling & alignment parser│   └── lib/│       └── quran.ts         — Asynchronous client-side data fetching for Arabic scripts├── package.json             — Project dependencies & runtime build targets└── tailwind.config.ts       — Utility-first styling tokens for RTL rendering
+hafiz/
+├── src/
+│   ├── app/
+│   │   ├── layout.tsx       — App Router root layout & font-optimization hook
+│   │   └── page.tsx         — Core layout routing & application state engine
+│   ├── components/
+│   │   └── Tasmi3.tsx       — Recitation studio, speech handling & alignment parser
+│   └── lib/
+│       └── quran.ts         — Asynchronous client-side data fetching for Arabic scripts
+├── package.json             — Project dependencies & runtime build targets
+└── tailwind.config.ts       — Utility-first styling tokens for RTL rendering
 ---
 
 ## Quick Setup
