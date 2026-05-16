@@ -1,4 +1,3 @@
-```markdown
 # Hafiz (حافظ) — Web Application
 
 > **Automated Quranic Recitation Verification Studio.** Prevent distraction, optimize active recall, and verify verbal accuracy directly inside a privacy-first workspace.
@@ -26,7 +25,6 @@ hafiz/
 │       └── quran.ts         — Asynchronous client-side data fetching for Arabic scripts
 ├── package.json             — Project dependencies & runtime build targets
 └── tailwind.config.ts       — Utility-first styling tokens for RTL rendering
-
 ```
 
 ---
